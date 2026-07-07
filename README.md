@@ -26,4 +26,5 @@ Database: MySQL
 Tool: MySQL Workbench
 Language: SQL
 # Dasboard
-<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/ea4a09e3-159f-46f5-8886-02447e855a6b" />
+![Uploading image.png…]()
+
